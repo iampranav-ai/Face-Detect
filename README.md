@@ -4,7 +4,8 @@
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-First of all make sure you have OpenCV installed. You can install it using pip: `pip install opencv-python`
+First of all make sure you have OpenCV installed. You can install it using pip: `pip install opencv-python`.
+
 Face detection using Haar cascades is a machine learning based approach where a cascade function is trained with a set of input data. 
 OpenCV already contains many pre-trained classifiers for face, eyes, smiles, etc.. 
 
